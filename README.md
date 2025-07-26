@@ -3,6 +3,8 @@
 This is a simple and elegant landing page for a coffee shop.  
 It is designed using **HTML** and **CSS** .
 
+![Coffee Shop](image/coffee-house.png)
+
 ---
 
 ## 💡 Design Overview
